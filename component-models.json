@@ -2482,7 +2482,7 @@
       },
       {
         "component": "custom-asset-namespace:custom-asset",
-        "configUrl": "https://gist.githubusercontent.com/LegoKam/079f6e000907f35b46190a1f8d9e0107/raw/c874f170b8f78aa83c81693ee0f82d1c47010b2c/gistfile1.txt",
+        "configUrl": "https://raw.githubusercontent.com/kradhakrish/world-bank/refs/heads/main/image.json",
         "valueType": "string",
         "name": "cc_image",
         "label": "Dynamic Media Image",
@@ -2718,7 +2718,7 @@
         "component": "custom-asset-namespace:custom-asset",
         "name": "dm-image",
         "label": "Image",
-        "configUrl": "https://gist.githubusercontent.com/LegoKam/079f6e000907f35b46190a1f8d9e0107/raw/c874f170b8f78aa83c81693ee0f82d1c47010b2c/gistfile1.txt",
+        "configUrl": "https://raw.githubusercontent.com/kradhakrish/world-bank/refs/heads/main/image.json",
         "valueType": "string"
       }
     ]
