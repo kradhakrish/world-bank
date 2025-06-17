@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p152232-e1579634.adobeaemcloud.com/bin/franklin.delivery/aemsites/world-bank/main"
+    type: "markup"
+    suffix: ".html"
